@@ -6,7 +6,7 @@ I've worked with a variety of languages including Java, C++, and Python. I've al
 
 ### What I am currently working on:
 - [Malware Behavior Knowledge Graph](https://github.com/22lavonne/Malware-Behavior-Knowledge-Graph/tree/main) - A knowledge graph to detect malware behavior in executable files
-- OSEDA - CLI maintainer
+- [OSEDA](https://github.com/oseda-dev/oseda-cli) - QA Developer
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -14,4 +14,4 @@ I've worked with a variety of languages including Java, C++, and Python. I've al
 
 <h3 align="left">Stats:</h3>
 
-![22lavonne's Streak](https://github-readme-streak-stats.herokuapp.com/?user=22lavonne&theme=vue-dark&hide_border=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=22lavonne&theme=default) 
