@@ -7,6 +7,9 @@ I've worked with a variety of languages including Java, C++, and Python. I've al
 ### What I am currently working on:
 - [Malware Behavior Knowledge Graph](https://github.com/22lavonne/Malware-Behavior-Knowledge-Graph/tree/main) - A knowledge graph to detect malware behavior in executable files
 - [OSEDA](https://github.com/oseda-dev/oseda-cli) - QA Developer
+- [Software Defined Radio Transmission](https://github.com/22lavonne/Software-Defined-Radio-Image-Transmission) - Senior Design Project
+- [Penny Bread](https://github.com/SurvivalW/Penny-Bread) - Wright State Hackathon 2026 Project
+
 
 
 <h3 align="left">Languages and Tools:</h3>
