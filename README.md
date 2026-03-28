@@ -1,4 +1,5 @@
 ## Emily Miller
+[![Oseda Author](https://img.shields.io/badge/Oseda%20Author-8A2BE2)](https://github.com/oseda-dev/oseda) <br>
 I am an Undergraduate Computer Science student at Wright State University planning on pursuing my Masters after graduation.
 
 I've worked with a variety of languages including Java, C++, and Python. I've also had experience working with the Linux command line and using Git for version control. I am always interested in learning new langauges or tools to help contribute to projects.
