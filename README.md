@@ -9,6 +9,7 @@ I've worked with a variety of languages including Java, C++, Python, and Javascr
 - [Malware Behavior Knowledge Graph](https://github.com/22lavonne/Malware-Behavior-Knowledge-Graph/tree/main) - A knowledge graph to detect malware behavior in executable files
 - [OSEDA](https://github.com/oseda-dev/oseda-cli) - QA Developer
 - [Software Defined Radio Transmission](https://github.com/22lavonne/Software-Defined-Radio-Image-Transmission) - Senior Design Project
+- [Cookie Clearer Extension for Firefox](https://github.com/22lavonne/Cookie-Clearer-For-Firefox) - Firefox Extension to clear cookies related to Outlook to fix log-out loop on certain email domains
 - [Penny Bread](https://github.com/SurvivalW/Penny-Bread) - Wright State Hackathon 2026 Project
 
 
